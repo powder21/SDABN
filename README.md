@@ -54,6 +54,6 @@ python train.py --stage 6 --resume_seg1 \path\to\s1.pth --resume_d1 \path\to\d1.
 
 ## Model link
 [OneDrive](https://1drv.ms/u/s!Ap2bi3TSun55lXoRKSCLO95TTbr-?e=0skLwd)
-In the link, sds.pth is the model of Seg<sub>2</sub>, and sdsdsd.pth is the model of Dn<sub>3.
+In the link, sds.pth is the model of Seg<sub>2,</sub> and sdsdsd.pth is the model of Dn<sub>3.
 
 
